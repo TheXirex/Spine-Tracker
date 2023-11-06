@@ -12,8 +12,12 @@ Selected activity classes for the spine:
 - tilting to an object lying on the floor from 3 positions
 - reaching for an object from a shelf from 3 positions
 
+![classes](https://github.com/TheXirex/Spine-Tracker/assets/104722568/2b1967c0-fe04-451d-b16e-622afd98b159)
+
 ## Prototype for Data Collection
 Collection was performed using two phone devices.
+
+![prototype](https://github.com/TheXirex/Spine-Tracker/assets/104722568/e16cae12-db3c-48f0-ba0c-17f5f3a00541)
 
 ## Preprocessing
 To review all aspects of data processing and preparation; model training and testing - you can view the .ipynb files provided in the repository.
