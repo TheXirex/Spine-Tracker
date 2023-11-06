@@ -4,7 +4,7 @@ People who work at a computer have back problems due to prolonged sitting and in
 
 **Main goal:** develop an algorithm for human back position tracking.
 
-## Selected Сlasses:
+## Selected Сlasses
 Selected activity classes for the spine:
 - straight spine
 - curved spine
